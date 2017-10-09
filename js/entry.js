@@ -1,3 +1,5 @@
+exports.journalModule = Journal;
+
 function Javi(title, body) {
   this.title = title;
   this.body = body;
